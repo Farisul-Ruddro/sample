@@ -176,7 +176,7 @@ input[type=password], input[type=password], textarea {
 	}
 
 	.hero-columns .column2{
-		width: 477.5px%; 
+		width: 477.5px; 
 		padding: 32px; 
 		text-align: center; 
 		align-self: center;
@@ -210,14 +210,14 @@ input[type=password], input[type=password], textarea {
 	}
 	.hero-heading{
 		color: #ffffff; 
-		font-size: 28px; 
-		line-height: 38px;
+		font-size: 32px; 
+		line-height: 40px;
 		font-weight: 400;
 	}
 	.hero-paragraph{
 		color: #ffffff;
-		font-size: 14px;
-		line-height: 30px;
+		font-size: 22px;
+		line-height: 32px;
 	}
 }
 
